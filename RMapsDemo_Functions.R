@@ -4,7 +4,10 @@
 
 
 # Packages ----------------------------------------------------------------
+require(ggmap)
 require(googleVis)
+require(maps)
+require(RgoogleMaps)
 
 # Functions ---------------------------------------------------------------
 # I don't think we'll need any custom functions for this one 
